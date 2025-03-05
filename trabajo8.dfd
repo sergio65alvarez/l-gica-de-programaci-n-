@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+8
+p1,p2,p3
+7
+0
+1
+37
+p1<100000 AND p2<100000 AND p2<100000
+6
+1
+2
+pr
+8
+p1+p2+p3
+4
+1
+21
+'no tiene descuento '
+13
+6
+3
+2
+pr
+8
+p1+p2+p3
+3
+des
+7
+pr*0.05
+3
+tol
+6
+pr-des
+4
+1
+23
+'su compra es de ', tol
+13
+1
